@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e9daa317-0c02-485f-83d2-7d9a0a4288a3" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/Assets/Material/Art.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Material/Art.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Material/BadItem.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Material/BadItem.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Material/Car.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Material/Car.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Material/Carpet.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Material/Carpet.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Material/ContinuePoorItemDisable.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Material/ContinuePoorItemDisable.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Material/ContinuePoorItemEnable.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Material/ContinuePoorItemEnable.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Material/ContinueRichItemDisable.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Material/ContinueRichItemDisable.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Material/ContinueRichItemEnable.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Material/ContinueRichItemEnable.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Material/Door.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Material/Door.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Material/Grass 1.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Material/Grass 1.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Material/Grass.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Material/Grass.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Material/Ground.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Material/Ground.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Material/Ground2.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Material/Ground2.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Material/Low_poly_interior.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Material/Low_poly_interior.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Material/MainFont-BlackOut.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Material/MainFont-BlackOut.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Material/MainFont-Shadow.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Material/MainFont-Shadow.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Material/MainFont-Win.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Material/MainFont-Win.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Material/MainFont-gameover.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Material/MainFont-gameover.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Material/Mikado Material.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Material/Mikado Material.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Material/NotoSansCJK-Regular Atlas Material.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Material/NotoSansCJK-Regular Atlas Material.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Material/PaperBloc.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Material/PaperBloc.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Material/Plane_Finish.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Material/Plane_Finish.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Material/PolygonTown_03_A.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Material/PolygonTown_03_A.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Material/Props.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Material/Props.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Material/Props_Gem.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Material/Props_Gem.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Material/Red.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Material/Red.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Material/Rideau.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Material/Rideau.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Material/SlotMachine.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Material/SlotMachine.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Material/TextMeshPro_Sprite.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Material/TextMeshPro_Sprite.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Material/TextMeshPro_Sprite_0.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Material/TextMeshPro_Sprite_0.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Material/TextMeshPro_Sprite_1.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Material/TextMeshPro_Sprite_1.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Material/TextMeshPro_Sprite_2.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Material/TextMeshPro_Sprite_2.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Material/Water.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Material/Water.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Material/enviro_mat.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Material/enviro_mat.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Material/mat_blue_transp.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Material/mat_blue_transp.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Material/player_mat.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Material/player_mat.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Material/player_mat_Shop 1.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Material/player_mat_Shop 1.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Material/player_mat_Shop.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Material/player_mat_Shop.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Material/player_mat_Shop_2.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Material/player_mat_Shop_2.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Material/props_Outline_Choice.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Material/props_Outline_Choice.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Material/props_flat.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Material/props_flat.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Material/props_flat_bad.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Material/props_flat_bad.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Material/props_spec.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Material/props_spec.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Material/ramp-ground.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Material/ramp-ground.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Material/skybox.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Material/skybox.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Material/stairs.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Material/stairs.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Material/stars_add.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Material/stars_add.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Material/umbrella_decent.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Material/umbrella_decent.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Material/umbrella_hobo.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Material/umbrella_hobo.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Material/umbrella_millionaire.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Material/umbrella_millionaire.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Material/umbrella_poor.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Material/umbrella_poor.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Material/umbrella_rich.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Material/umbrella_rich.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Material/winedrop.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Material/winedrop.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/New Animator Controller.controller" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/New Animator Controller.controller" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Walking.anim" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Walking.anim" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Visual/Default.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Visual/Default.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Visual/Fonts/NotoSansCJK-Bold SDF.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Visual/Fonts/NotoSansCJK-Bold SDF.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Visual/New Material 1.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Visual/New Material 1.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Visual/New Material.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Visual/New Material.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Visual/Texture2D/dollar_Logo.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Visual/Texture2D/dollar_Logo.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Visual/Texture2D/rounded-frame.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Visual/Texture2D/rounded-frame.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Visual/Texture2D/slot_transparent 1.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Visual/Texture2D/slot_transparent 1.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/GraphicsSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/GraphicsSettings.asset" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Rotater.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/CameraMovement.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/DootweenMovement.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/Scripts/Rotater.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/DootweenMovement.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/CameraMovement.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/PlayerMovement.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="2m9gcVbk4kyfTkciQiNVCXtCORa" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <set />
+      </option>
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <set />
+      </option>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e9daa317-0c02-485f-83d2-7d9a0a4288a3" name="Default Changelist" comment="" />
+      <created>1726494331123</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1726494331123</updated>
+      <workItem from="1726495980603" duration="9745000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+</project>
